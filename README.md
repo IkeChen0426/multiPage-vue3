@@ -1,4 +1,4 @@
-# multi多页面应用
+# multi(vue多页面应用)
 
 ## Project setup
 ```
